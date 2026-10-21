@@ -21,7 +21,12 @@ This repository contains a **native Bangla multiple-choice benchmark** created f
 ## 🛠️ Methodology Pipeline
 The dataset was built in six stages, from law selection to the final MCQ set, with manual checking at almost every stage:
 
-![Methodology Pipeline](methodology.png)
+
+
+<img width="1693" height="929" alt="methodology" src="https://github.com/user-attachments/assets/149a149f-df2e-4857-ac23-e9cceee75f55" />
+
+
+
 
 1. **Law selection:** The Bangladesh Road Transport Act, 2018 was chosen, using the official 38-page government PDF as the source.
 2. **Text extraction:** Text was read with PyMuPDF. Pages that came out garbled were re-read using Tesseract OCR (Bangla).
