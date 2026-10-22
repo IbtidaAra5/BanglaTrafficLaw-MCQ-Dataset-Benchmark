@@ -95,7 +95,7 @@ print(df.shape)   # (296, 3)
 
 ## 📁 Repository Structure
 ```
-├── dataset_final.csv      # 296 MCQs (UTF-8)
+├── dataset_final.csv      # 299 MCQs (UTF-8)
 ├── dataset_final.xlsx     # Same data as a spreadsheet
 ├── methodology.png        # Pipeline diagram
 └── README.md              # Project documentation
